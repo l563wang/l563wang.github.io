@@ -1,0 +1,88 @@
+{
+	"landing": {
+		"firstName": "Luwei",
+		"lastName": "Wang",
+		"phoneNumber": "(+1)2268089611",
+		"bio": "I am a graduate student enrolled in Electrical and Computer Engineering at University of Waterloo, I am looking for a full-time Software Engineer position starting from January 2021.",
+    "email": "luweiwangh@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/luwei-wang-50302919b/",
+		"github": "https://github.com/l563wang"
+	},
+	"experience": [
+		{
+				"position": "Intern Software Engineer",
+				"organization": "Didi Chuxing Tech Co.",
+				"aboutWork": "NULL",
+				"fromDate": "NULL",
+				"toDate": "NULL"
+		},
+		{
+			"position": "Developer",
+			"organization": "UW",
+			"aboutWork": "blablabla.",
+			"fromDate": "January 2020",
+			"toDate": "April 2020"
+		},
+		{
+			"position": "Developer",
+			"organization": "UW",
+			"aboutWork": "blabla",
+			"fromDate": "September 2019",
+			"toDate": "December 2019"
+		}
+	],
+	"education": [{
+			"university": "University of Waterloo",
+			"degree": "Master of Engineering",
+			"gpa": "91.2%",
+			"fromDate": "September 2019",
+			"toDate": "Present"
+		},
+		{
+		"university": "Tsinghua University",
+			"degree": "Bachelor of Science",
+			"gpa": "80.0%",
+			"fromDate": "August 2014",
+			"toDate": "July 2018"	
+		}
+	],
+	"skills": [{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "Django"
+		},
+		{
+			"name": "Ember"
+		}
+	],
+	"interests": {
+		"paragraphOne": "I like to be interviewed and look for jobs",
+		"paragraphTwo": "Also I like to sleep."
+	},
+	"awards": [{
+			"awardDetail": "one prize."
+		},
+		{
+			"awardDetail": "two prize"
+		},
+		{
+			"awardDetail": "three prize"
+		}
+	]
+}
