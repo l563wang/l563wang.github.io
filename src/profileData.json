@@ -34,14 +34,12 @@
 	"education": [{
 			"university": "University of Waterloo",
 			"degree": "Master of Engineering",
-			"gpa": "91.2%",
 			"fromDate": "September 2019",
 			"toDate": "Present"
 		},
 		{
 		"university": "Tsinghua University",
 			"degree": "Bachelor of Science",
-			"gpa": "80.0%",
 			"fromDate": "August 2014",
 			"toDate": "July 2018"	
 		}
