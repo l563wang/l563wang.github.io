@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/l563wang.github.io/static/css/main.c0710856.chunk.css",
-    "main.js": "/l563wang.github.io/static/js/main.473a126f.chunk.js",
-    "main.js.map": "/l563wang.github.io/static/js/main.473a126f.chunk.js.map",
+    "main.js": "/l563wang.github.io/static/js/main.b7d0548b.chunk.js",
+    "main.js.map": "/l563wang.github.io/static/js/main.b7d0548b.chunk.js.map",
     "runtime-main.js": "/l563wang.github.io/static/js/runtime-main.60a27ee3.js",
     "runtime-main.js.map": "/l563wang.github.io/static/js/runtime-main.60a27ee3.js.map",
     "static/js/2.60093287.chunk.js": "/l563wang.github.io/static/js/2.60093287.chunk.js",
     "static/js/2.60093287.chunk.js.map": "/l563wang.github.io/static/js/2.60093287.chunk.js.map",
     "index.html": "/l563wang.github.io/index.html",
-    "precache-manifest.ad76f7fcc9fb449d25d099793f278782.js": "/l563wang.github.io/precache-manifest.ad76f7fcc9fb449d25d099793f278782.js",
+    "precache-manifest.3caa367236d0fdbb8d606b1ed9fcfd1f.js": "/l563wang.github.io/precache-manifest.3caa367236d0fdbb8d606b1ed9fcfd1f.js",
     "service-worker.js": "/l563wang.github.io/service-worker.js",
     "static/css/main.c0710856.chunk.css.map": "/l563wang.github.io/static/css/main.c0710856.chunk.css.map",
     "static/js/2.60093287.chunk.js.LICENSE.txt": "/l563wang.github.io/static/js/2.60093287.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.60a27ee3.js",
     "static/js/2.60093287.chunk.js",
     "static/css/main.c0710856.chunk.css",
-    "static/js/main.473a126f.chunk.js"
+    "static/js/main.b7d0548b.chunk.js"
   ]
 }
